@@ -1,6 +1,5 @@
 package works.workers;
 
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 
 public class Worker {
